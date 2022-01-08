@@ -2,7 +2,7 @@ const links = [
   { label: "Week 1 notes", url: "/week1/index.html", notes: "Porfolio" },
   ]
   
-let list = document.getElementById("list");
+const list = document.getElementById("list");
   
 for (let i = 0; i < links.length; i++) {
   // in this part we create an element <li> <a></a> </li>
