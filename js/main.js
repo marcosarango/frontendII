@@ -1,5 +1,5 @@
 const links = [
-  { label: "Week 1", url: "/week1/index.html", notes: "Porfolio" },
+  { label: "Week 1", url: "week1/index.html", notes: "Porfolio" },
   ]
   
 const list = document.getElementById("list");
